@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Roshan
-- 👀 I’m interested to code
-- 🌱 I’m currently learning programing language
 - 📫 How to reach me, by mailing me on roshanvinson@gmail.com
 
 <!---
